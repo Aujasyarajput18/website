@@ -1,68 +1,39 @@
-# Astro Starter Kit: Blog
+# PHL Code Club Website
 
-```sh
-pnpm create astro@latest -- --template blog
-```
+Welcome to the official website for PHL Code Club!
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+## About PHL Code Club
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+PHL Code Club is a Philadelphia-based community organization dedicated to bringing together developers, programmers, and technology enthusiasts to learn, share knowledge, and collaborate on exciting projects.
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+## About This Website
 
-Features:
+This website serves as the central hub for our community, providing information about:
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+- Upcoming events and meetups
+- Resources for learning and development
+- Community projects and initiatives
+- Ways to get involved and contribute
 
-## 🚀 Project Structure
+## Technology Stack
 
-Inside of your Astro project, you'll see the following folders and files:
+This site is built with [Astro](https://astro.build/), a modern static site builder that delivers fast, content-focused websites.
 
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+## Getting Involved
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+We welcome contributions from developers of all skill levels! Whether you're just starting out or you're an experienced developer, there's a place for you in our community.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### How to Contribute
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+1. Check out our [Issues](https://github.com/phl-code-club/website/issues) for open tasks
+2. Fork the repository
+3. Create a new branch for your changes
+4. Submit a pull request
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Contact
 
-## 🧞 Commands
+For questions or more information about PHL Code Club, feel free to reach out through our GitHub organization.
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+Built with ❤️ by the PHL Code Club community
